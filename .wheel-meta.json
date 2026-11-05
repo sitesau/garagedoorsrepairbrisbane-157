@@ -1,0 +1,22 @@
+{
+  "wheel_id": 762,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-157",
+  "project": "roller-door-repairs-brisbane-7feb59da6c03b487ed58183cdb8388adcb",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-016",
+  "node_role": "buffer",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane",
+  "intended_url": "https://sitesau.github.io/garagedoorsrepairbrisbane-157/",
+  "tier": "T2",
+  "writeback_nonce": "2826d56152e475cb",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roller-door-repairs-brisbane/",
+      "anchor": "Roller Door Repairs Brisbane: Costs, Faults and Quote Checks",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
